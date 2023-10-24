@@ -1,0 +1,217 @@
+
+
+*************************
+a = player1
+b = player2
+
+Score of a = 10
+Score of b = -6
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 2
+Score of b = 53
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = -3
+Score of b = 4
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 4
+Score of b = 7
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 7
+Score of b = 1
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 22
+Score of b = -5
+Winner : a
+
+*************************
+A = player1
+B = player2
+
+Score of A = -18
+Score of B = 17
+Winner : B
+
+*************************
+a = player1
+b = player2
+
+Score of a = -6
+Score of b = 8
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 17
+Score of b = 5
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = -7
+Score of b = -8
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = -5
+Score of b = 4
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 8
+Score of b = -9
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 15
+Score of b = 1
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 16
+Score of b = 0
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 0
+Score of b = 0
+It's a Draw
+
+*************************
+a = player1
+b = player2
+
+Score of a = 10
+Score of b = 1
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 9
+Score of b = 30
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 17
+Score of b = 6
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 18
+Score of b = 8
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = 3
+Score of b = 1
+Winner : a
+
+*************************
+a = player1
+b = player2
+
+Score of a = -3
+Score of b = 10
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = -3
+Score of b = 10
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 2
+Score of b = 13
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 2
+Score of b = 13
+Winner : b
+
+*************************
+q = player1
+w = player2
+
+Score of q = 17
+Score of w = -10
+Winner : q
+
+*************************
+a = player1
+b = player2
+
+Score of a = 8
+Score of b = 12
+Winner : b
+
+*************************
+a = player1
+b = player2
+
+Score of a = 5
+Score of b = 17
+Winner : b
